@@ -22,3 +22,13 @@ npm install express body-parser dotenv pusher
 npm install pusher-js uuid
 
 ```
+
+## Pusher setup
+- Create a Pusher account and a new Pusher Channels app 
+- Creat .env in the root folder
+```
+    // Replace the placeholder values with your actual pusher credentials
+    PUSHER_APP_ID=PUSHER_APP_ID
+    PUSHER_KEY=PUSHER_KEY
+    PUSHER_SECRET=PUSHER_SECRET
+```
