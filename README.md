@@ -5,7 +5,7 @@ using Pusher’s pub/sub pattern to get realtime updates and React for creating 
 
 ## Reference
 - [Build A Live Paint Application With React](https://codeburst.io/build-a-live-paint-application-with-react-ed534b403706)
-
+  - https://github.com/christiannwamba/react-paintapp
 
 ## Setup
 ```
